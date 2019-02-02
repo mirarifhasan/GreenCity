@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Green City</string>
+    <string name="tagline">Green City</string>
+    <string name="forget_msg">Send an email to us (help@greencity.com) with your Name, Phone number and Email id</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
