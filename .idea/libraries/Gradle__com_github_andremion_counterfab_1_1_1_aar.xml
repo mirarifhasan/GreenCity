@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.andremion:counterfab:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/counterfab-1.1.1.aar/279d260dfe163672ae06badcfa465656/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/counterfab-1.1.1.aar/279d260dfe163672ae06badcfa465656/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.andremion/counterfab/1.1.1/5e3d8ff451697b651e97602681e6ddf202631eb2/counterfab-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
